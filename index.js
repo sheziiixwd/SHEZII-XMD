@@ -67,10 +67,10 @@ const {
   }
   });
   console.log('Plugins installed successful ✅')
-  console.log('SHEXI-XMD connected to whatsapp ✅')
+  console.log('SHEZII-XMD connected to whatsapp ✅')
   
   let up =`╔═════════════════╗
-  ║      SHEXI-XMD           
+  ║      SHEZII-XMD           
   ║  SUCCESSFULLY CONNECTED ✅ 😍        
   ╠═════════════════╣
   ║      • PREFIX: .            
@@ -81,8 +81,8 @@ const {
   ║ ♻ 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐋𝐈𝐍𝐊          
   ║ https://wa.me/message/+923190131307                 
   ╠═════════════════╣
-  ║      SHEXI-XMD               
-  ║ > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ SHEXI-XMD       
+  ║      SHEZII-XMD               
+  ║ > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ SHEZII-XMD       
   ╚═════════════════╝
 `;
   conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files.catbox.moe/atby2t.png` }, caption: up })
