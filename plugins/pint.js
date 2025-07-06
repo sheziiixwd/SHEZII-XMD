@@ -26,7 +26,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, reply }) => 
         for (const imageData of images) {
             let desc = `
 ╭═══════════════════⊷❍
-┃ *📸 Arslan-Ultra-MD Pinterest Downloader 📸*
+┃ *📸 Shezii-Ultra-XMD Pinterest Downloader 📸*
 ╰══════════⊷
 ┃ 👤 *Uploader:* ${imageData.upload_by}
 ┃ 🏷 *Full Name:* ${imageData.fullname}
