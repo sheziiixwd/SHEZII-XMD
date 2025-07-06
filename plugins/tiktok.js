@@ -34,7 +34,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
         // Prepare the caption/description to send along with the video
         let desc = `
-╔══✦❘༻ *Arslan-Ultra-MD* ༺❘✦══╗
+╔══✦❘༻ *Shezii-Ultra-XMD* ༺❘✦══╗
 ┇  🎵 *TIKTOK DOWNLOAD* 🎵
 ┇╭───────────────────
 ┇│•📹 Type: ${result.type ? result.type.toUpperCase() : 'UNKNOWN'}
@@ -47,7 +47,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┇ • Comments: ${result.statistics?.commentCount || '0'}
 ┇ • Shares: ${result.statistics?.shareCount || '0'}
 ╰─────────────────────────
-> POWERED BY ArslanMD Official`;
+> POWERED BY SheziiXMD Official`;
 
         // Send the TikTok video message
         await conn.sendMessage(from, { video: { url: result.video }, caption: desc }, { quoted: mek });
