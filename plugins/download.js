@@ -10,7 +10,7 @@ let baseUrl;
 })();
 
 
-const yourName = "*POWERED BY ArslanMD Official*";
+const yourName = "*POWERED BY SheziiXMD Official*";
 
 
 
