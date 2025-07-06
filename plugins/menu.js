@@ -166,7 +166,7 @@ cmd({
 ╚══════════════════════════╝`;
 
         await conn.sendMessage(from, { 
-            image: { url: `https://files.catbox.moe/atby2t.png` }, 
+            image: { url: `https://files.catbox.moe/6dqp7u.jpg` }, 
             caption: menuText 
         }, { quoted: mek });
 
